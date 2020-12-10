@@ -1,0 +1,84 @@
+Method - FreeSpace,Called - пн.07.12.2020 14:52:50
+Method - Type Of Drive,Called - пн.07.12.2020 14:52:50
+Method - DirInfo,Called - пн.07.12.2020 14:52:50
+Method -  FullInfo, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:52:50
+Method -  FullPath, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:52:50
+Method -  TimeOfCreation, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:52:50
+Method - CraetionTime,Path - C:\Objects,Called - пн.07.12.2020 14:52:50
+Method - GetParentDir,Path - C:\Objects,Called - пн.07.12.2020 14:52:50
+Method - GetSubDir,Path - C:\Objects,Called - пн.07.12.2020 14:52:50
+Method - GetFiles,Path - C:\Objects,Called - пн.07.12.2020 14:52:50
+Method - FDirMethod,Called - пн.07.12.2020 14:52:50
+Method - SDirMethod,Called - пн.07.12.2020 14:52:50
+Method - FreeSpace,Called - пн.07.12.2020 14:53:33
+Method - Type Of Drive,Called - пн.07.12.2020 14:53:33
+Method - DirInfo,Called - пн.07.12.2020 14:53:33
+Method -  FullInfo, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:53:33
+Method -  FullPath, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:53:33
+Method -  TimeOfCreation, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:53:33
+Method - CraetionTime,Path - C:\Objects,Called - пн.07.12.2020 14:53:33
+Method - GetParentDir,Path - C:\Objects,Called - пн.07.12.2020 14:53:33
+Method - GetSubDir,Path - C:\Objects,Called - пн.07.12.2020 14:53:33
+Method - GetFiles,Path - C:\Objects,Called - пн.07.12.2020 14:53:33
+Method - FDirMethod,Called - пн.07.12.2020 14:53:33
+Method - SDirMethod,Called - пн.07.12.2020 14:53:33
+Method - FreeSpace,Called - пн.07.12.2020 14:56:02
+Method - Type Of Drive,Called - пн.07.12.2020 14:56:02
+Method - DirInfo,Called - пн.07.12.2020 14:56:02
+Method -  FullInfo, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:56:02
+Method -  FullPath, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:56:02
+Method -  TimeOfCreation, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:56:02
+Method - CraetionTime,Path - C:\Objects,Called - пн.07.12.2020 14:56:02
+Method - GetParentDir,Path - C:\Objects,Called - пн.07.12.2020 14:56:02
+Method - GetSubDir,Path - C:\Objects,Called - пн.07.12.2020 14:56:02
+Method - GetFiles,Path - C:\Objects,Called - пн.07.12.2020 14:56:02
+Method - FDirMethod,Called - пн.07.12.2020 14:56:02
+Method - SDirMethod,Called - пн.07.12.2020 14:56:02
+Method - FreeSpace,Called - пн.07.12.2020 14:56:38
+Method - Type Of Drive,Called - пн.07.12.2020 14:56:38
+Method - DirInfo,Called - пн.07.12.2020 14:56:38
+Method -  FullInfo, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:56:38
+Method -  FullPath, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:56:38
+Method -  TimeOfCreation, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:56:38
+Method - CraetionTime,Path - C:\Objects,Called - пн.07.12.2020 14:56:38
+Method - GetParentDir,Path - C:\Objects,Called - пн.07.12.2020 14:56:38
+Method - GetSubDir,Path - C:\Objects,Called - пн.07.12.2020 14:56:38
+Method - GetFiles,Path - C:\Objects,Called - пн.07.12.2020 14:56:38
+Method - FDirMethod,Called - пн.07.12.2020 14:56:38
+Method - SDirMethod,Called - пн.07.12.2020 14:56:38
+Method - FreeSpace,Called - пн.07.12.2020 14:56:51
+Method - Type Of Drive,Called - пн.07.12.2020 14:56:51
+Method - DirInfo,Called - пн.07.12.2020 14:56:51
+Method -  FullInfo, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:56:51
+Method -  FullPath, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:56:51
+Method -  TimeOfCreation, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:56:51
+Method - CraetionTime,Path - C:\Objects,Called - пн.07.12.2020 14:56:51
+Method - GetParentDir,Path - C:\Objects,Called - пн.07.12.2020 14:56:51
+Method - GetSubDir,Path - C:\Objects,Called - пн.07.12.2020 14:56:51
+Method - GetFiles,Path - C:\Objects,Called - пн.07.12.2020 14:56:51
+Method - FDirMethod,Called - пн.07.12.2020 14:56:51
+Method - SDirMethod,Called - пн.07.12.2020 14:56:51
+Method - FreeSpace,Called - пн.07.12.2020 14:57:50
+Method - Type Of Drive,Called - пн.07.12.2020 14:57:50
+Method - DirInfo,Called - пн.07.12.2020 14:57:50
+Method -  FullInfo, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:57:50
+Method -  FullPath, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:57:50
+Method -  TimeOfCreation, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 14:57:50
+Method - CraetionTime,Path - C:\Objects,Called - пн.07.12.2020 14:57:50
+Method - GetParentDir,Path - C:\Objects,Called - пн.07.12.2020 14:57:50
+Method - GetSubDir,Path - C:\Objects,Called - пн.07.12.2020 14:57:50
+Method - GetFiles,Path - C:\Objects,Called - пн.07.12.2020 14:57:50
+Method - FDirMethod,Called - пн.07.12.2020 14:57:50
+Method - SDirMethod,Called - пн.07.12.2020 14:57:50
+Method - FreeSpace,Called - пн.07.12.2020 15:03:14
+Method - Type Of Drive,Called - пн.07.12.2020 15:03:14
+Method - DirInfo,Called - пн.07.12.2020 15:03:14
+Method -  FullInfo, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 15:03:14
+Method -  FullPath, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 15:03:14
+Method -  TimeOfCreation, File - file.txt, Path -  C:\file.txt, Called -  пн.07.12.2020 15:03:14
+Method - CraetionTime,Path - C:\Objects,Called - пн.07.12.2020 15:03:14
+Method - GetParentDir,Path - C:\Objects,Called - пн.07.12.2020 15:03:14
+Method - GetSubDir,Path - C:\Objects,Called - пн.07.12.2020 15:03:14
+Method - GetFiles,Path - C:\Objects,Called - пн.07.12.2020 15:03:14
+Method - FDirMethod,Called - пн.07.12.2020 15:03:14
+Method - SDirMethod,Called - пн.07.12.2020 15:03:14
